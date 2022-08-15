@@ -1,0 +1,2 @@
+# Invernadero-IOT
+Es un sistema de cultivo que utiliza la tecnología hidropónica NFT dentro de un invernadero de ambiente controlado, los dos sistemas están automatizados a través de un conjunto  de sensores y actuadores que permiten  la correcta medición y regulación   de las condiciones físicas y químicas de una manera eficaz y precisa del sistema, conectado al internet de las cosas para comunicar y almacenar la información recaudada. Y así regular las condiciones del sistema a distancia según sea necesario a través del internet.
